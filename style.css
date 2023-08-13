@@ -1,0 +1,15 @@
+body{
+
+}
+.card{
+    background :linear-gradient(135deg, #00feba ,#5b548a);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.choicebtn{
+
+    width: 110px;
+    height: 45px;
+    border-radius: 50%; 
+}
